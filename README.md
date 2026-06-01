@@ -25,8 +25,8 @@ Crucially, the pipeline includes an **automated data integrity auditor** to guar
 
 1. **Clone the repository and install dependencies:**
    ```bash
-   git clone https://github.com/YourUsername/BI-Aggregator-Engine.git
-   cd BI-Aggregator-Engine
+   git clone https://github.com/sajalbhagatprofessional/Business-Intelligence-Aggregator-Data-Engine
+   cd Business-Intelligence-Aggregator-Data-Engine
    pip install pandas sqlalchemy streamlit plotly
    ```
 
